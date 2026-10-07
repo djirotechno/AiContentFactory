@@ -1,0 +1,4 @@
+file 'C:/Users/Lambaye/Documents/AiContentFactory/projects/esp32/video_work/scenes/scene_01.mp4'
+file 'C:/Users/Lambaye/Documents/AiContentFactory/projects/esp32/video_work/scenes/scene_02.mp4'
+file 'C:/Users/Lambaye/Documents/AiContentFactory/projects/esp32/video_work/scenes/scene_03.mp4'
+file 'C:/Users/Lambaye/Documents/AiContentFactory/projects/esp32/video_work/scenes/scene_04.mp4'

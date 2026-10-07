@@ -1,0 +1,22 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Un capteur ultrasonic est un dispositif qui utilise des ondes sonores pour mesurer des distances."
+    },
+    {
+        "start": 4.609999999999999,
+        "end": 11.61,
+        "text": "Il émet un son très aigu, que nous ne pouvons pas entendre, puis mesure le temps qu'il faut à ce son pour revenir après avoir frappé un objet."
+    },
+    {
+        "start": 12.16,
+        "end": 16.56,
+        "text": "En connaissant la vitesse du son, le capteur calcule la distance entre lui et l'objet."
+    },
+    {
+        "start": 16.48,
+        "end": 22.08,
+        "text": "Ces capteurs sont utilisés dans les robots, les voitures autonomes et même les télécommandes pour détecter les obstacles."
+    }
+]

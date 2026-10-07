@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Un capteur ultrasonic est un dispositif qui utilise des ondes sonores pour mesurer des distances.
+
+2
+00:00:04,610 --> 00:00:11,610
+Il émet un son très aigu, que nous ne pouvons pas entendre, puis mesure le temps qu'il faut à ce son pour revenir après avoir frappé un objet.
+
+3
+00:00:12,160 --> 00:00:16,560
+En connaissant la vitesse du son, le capteur calcule la distance entre lui et l'objet.
+
+4
+00:00:16,480 --> 00:00:22,080
+Ces capteurs sont utilisés dans les robots, les voitures autonomes et même les télécommandes pour détecter les obstacles.

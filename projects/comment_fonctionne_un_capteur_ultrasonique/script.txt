@@ -1,0 +1,19 @@
+Comment fonctionne un capteur ultrasonique ?
+============================================
+
+SCÈNE 1 (6 secondes)
+VOIX : Un capteur ultrasonique est un dispositif qui utilise des ondes sonores pour mesurer des distances.
+VISUEL : Vue d'un capteur ultrasonique fixé sur un robot ou une voiture. Des ondes sonores sortent du capteur.
+
+SCÈNE 2 (6 secondes)
+VOIX : Il émet un son très aigu, que nous ne pouvons pas entendre, puis mesure le temps qu'il faut à ce son pour revenir après avoir frappé un objet.
+VISUEL : Animation montrant un son ultrasonique qui frappe un mur, puis qui revient vers le capteur.
+
+SCÈNE 3 (6 secondes)
+VOIX : En connaissant la vitesse du son, le capteur calcule la distance entre lui et l'objet.
+VISUEL : Calcul mathématique simple : distance = vitesse × temps. Le résultat s'affiche sur un écran.
+
+SCÈNE 4 (12 secondes)
+VOIX : Ces capteurs sont utilisés dans les robots, les voitures autonomes et même les télécommandes pour détecter les obstacles.
+VISUEL : Montage rapide de différents appareils utilisant des capteurs ultrasoniques : robot, voiture, télécommande.
+
